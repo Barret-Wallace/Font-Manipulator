@@ -1,0 +1,33 @@
+.back {
+    background-image: url("Greeting.png");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.info {
+    background: chocolate;
+    color: white;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+.sep_info {
+    color: black;
+}
+
+canvas{
+    border: 2px black solid;
+    box-shadow: 5px 5px 30px rgb(255, 196, 0);
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
